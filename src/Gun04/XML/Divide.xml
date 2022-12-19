@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite 1">
+    <test name="Test 2">
+        <classes>
+            <parameter name="amazon" value="more sell,less then">
+                <class name="Gun04._02_Intro"></class>
+                <class name="Gun03._01_Dependecy"></class>
+            </parameter>
+        </classes>
+    </test>
+
+</suite>
+
+
+
