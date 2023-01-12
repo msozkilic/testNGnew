@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Genel">
+    <test name="Test1">
+        <parameter name="email" value="serr@gmail.com"></parameter>
+        <parameter name="password" value="ser123"></parameter>
+        <classes>
+            <class name="Gun09.Pom"></class>
+        </classes>
+    </test>
+
+</suite>
